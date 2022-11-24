@@ -1,0 +1,14 @@
+@import '../node_modules/bootstrap/scss/bootstrap.scss';
+
+@import 'header';
+@import 'navbar';
+
+html, body {
+    height: 100%;
+    margin: 0;
+  }
+
+  .seperate-content{
+    margin-top: 20px;
+  }
+  

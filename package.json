@@ -1,0 +1,25 @@
+{
+  "name": "frontend-venn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toussaint01/Frontend-Venn.git"
+  },
+  "keywords": [],
+  "author": "Toussaint Salabanzi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/toussaint01/Frontend-Venn/issues"
+  },
+  "homepage": "https://github.com/toussaint01/Frontend-Venn#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "node.js": "0.0.1-security",
+    "nodejs": "0.0.0"
+  }
+}
