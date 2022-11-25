@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+.darkblue-bck {
+  background-color: #03363D;
+  height: auto;
+}
+
+.content-side {
+  background-color: #f7f4ef;
+  height: auto;
+}
+
+.logo-side a {
+  color: #fff !important;
+}
+
+.rolesearch-btn {
+  border-radius: 20px !important;
+  padding: 10px;
+  width: 50%;
+}
+
+.cust-navbar {
+  float: right;
+}
+
+.nav-link:hover {
+  color: red !important;
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+.seperate-content {
+  margin-top: 20px;
+}
+
+p {
+  font-family: "Open Sans", sans-serif;
+}/*# sourceMappingURL=style.css.map */
