@@ -3,6 +3,7 @@
 @import 'header';
 @import 'navbar';
 @import 'variables';
+@import 'content';
 
 html, body {
     height: 100%;
@@ -15,4 +16,7 @@ html, body {
   
 p{
   font-family: 'Open Sans', sans-serif;
+}
+.text-centered{
+  text-align: center;
 }
