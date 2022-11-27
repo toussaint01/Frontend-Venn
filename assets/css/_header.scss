@@ -1,8 +1,5 @@
 @import 'variables';
 
-
-
-
 .darkblue-bck{
     background-color:$darkblue-bck;
     height: auto;
@@ -16,7 +13,8 @@
     color: #fff !important;
 }
 .rolesearch-btn{
-    border-radius: 20px !important;
+    border-radius: 20px;
     padding: 10px;
-    width: 50%;
+    width: auto;
+    border: 1px solid #000;
 }

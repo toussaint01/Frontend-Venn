@@ -3,3 +3,75 @@
 .borderb-list{
     border-bottom: 1px solid #000;
 }
+#recruitment-link{
+    color: #fff;
+    text-decoration: none;
+}
+.experts-info-list{
+    background-color: $beigecolor;
+}
+
+#FS-link{
+    color: #FC7753;
+    text-decoration: none;
+}
+#link-icon{
+    border:orange ;
+    border-radius:40px; 
+    background-color: orange; 
+    padding: 6px;
+}
+.sub-list{
+    
+    a{
+    color: #000;
+    text-decoration: none;
+    }
+}
+.sub-list:hover{
+    background-color: #E6E7E2;
+    a{
+        color: #FC7753;
+        text-decoration: none;
+        }
+}
+
+.short-text{
+        margin: 300px auto;        
+        width: 60%;
+        padding: 10px;
+}
+.img-aligned{
+    width: 100%;
+}
+.insights-box1{
+    background: linear-gradient(54deg, rgba(5, 5, 5, 0.712) 34%, rgba(0, 0, 0, 0.034)),
+     url(../images/man-greenbck.png) no-repeat;
+}
+.insights-box2{
+    background: linear-gradient(54deg, rgba(5, 5, 5, 0.712) 34%, rgba(0, 0, 0, 0.034)),
+    url(../images/exit-greenbck.png) no-repeat;}
+.insights-box3{
+    background: linear-gradient(54deg, rgba(5, 5, 5, 0.712) 34%, rgba(0, 0, 0, 0.034)),
+    url(../images/jellyfish-greenbck.png) no-repeat;}
+.faded-background{
+    background-color: rgba(0, 0, 0, 0.295);
+}
+
+.i-boxes{
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center; 
+    height:100%;
+    color: #fff;
+    padding: 40px;
+    a{
+        color: #fff;
+    }
+}
+.thumbnail-text{
+    border: none;
+}
+.reference-color{
+    color: #FC7753;
+}

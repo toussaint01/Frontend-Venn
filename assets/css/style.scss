@@ -4,6 +4,7 @@
 @import 'navbar';
 @import 'variables';
 @import 'content';
+@import 'footer';
 
 html, body {
     height: 100%;
@@ -11,12 +12,18 @@ html, body {
   }
 
   .seperate-content{
-    margin-top: 20px;
+    margin-top: 30px;
   }
-  
+  a{
+    text-decoration: none;
+    color: #000;
+  }
 p{
   font-family: 'Open Sans', sans-serif;
 }
 .text-centered{
   text-align: center;
+}
+a:hover{
+  color: #FC7753 !important;
 }
